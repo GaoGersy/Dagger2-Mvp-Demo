@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVPTest</string>
+    <string name="userNmae">请输入用户名</string>
+    <string name="pwd">请输入密码</string>
+</resources>
